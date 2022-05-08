@@ -82,7 +82,7 @@ export const LayoutPage = () => {
       </Sider>
       <Layout className="site-layout" style={{ marginLeft: 200 }}>
         <PageHeader
-          title="Web-учебник по основам"
+          title="Цор по дисциплине Химия"
           className="site-page-header"
           subTitle="Автор:"
           tags={[
